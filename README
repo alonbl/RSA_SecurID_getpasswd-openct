@@ -1,0 +1,7 @@
+RSA_SecurID_getpasswd-openct
+============================
+
+This utility is Based on ccid RSA_SecurID_getpasswd utility,
+only that this is working using OpenCT.
+
+It reads the one time password from RSA SecurID SID800 device.
